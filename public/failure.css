@@ -1,0 +1,27 @@
+.container{
+   
+   background-color: #DCDCDC;
+}
+
+h1.heading{
+    font-size: 50px;
+    text-align: center;
+    font-weight: 400;
+    
+}
+
+.container p{
+    text-align: center;
+    font-size: 25px;
+}
+
+button.try{
+    display: block;
+    margin: auto;
+    margin-bottom: 10px;
+    background-color: red;
+    color: #fff;
+    font-size: 22px;
+    border-radius: 5px;
+    
+}

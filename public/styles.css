@@ -1,0 +1,33 @@
+
+
+form.newsform{
+    margin-top: 30%;
+}
+
+h1.formHeading {
+    font-weight: 600;
+    font-size: 25px;
+    text-align: center;
+}
+
+.newsform .top {
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    margin-bottom: -1px;
+}
+
+.newsform .middle {
+    border-radius: 0;
+    margin-bottom: -1px;
+}
+
+.newsform .bottom {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+.newsform button.subscribeButton{
+    display: block;
+    width: 293px;
+    margin: auto;
+    margin-top: 25px;
+}
